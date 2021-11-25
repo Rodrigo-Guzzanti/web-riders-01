@@ -1,0 +1,68 @@
+﻿Estas son las siguientes actualizaciones en los diferentes archivos:
+
+
+En todos los html le agregué los <meta> “description” y “keywords”, uno diferente por cada archivo:
+
+
+Index description: “La página Web para riders exclusivos que realizan actividades de reparto en la Ciudad de Buenos Aires. ¡Formá parte del equipo!”
+
+
+Index keywords: "delivery, reparto a domicilio, trabajo como repartidor, Riders, servicio de reparto, envío a domicilio, trabajo como delivery, bike messenger, mensajero, ciclista, motoquero, repartidor, comida a domicilio"
+
+
+Loguearme description: "Ingresá acá con tu usuario si ya sos Rider"
+
+
+Loguearme keywords: “plataforma para riders, ingreso a web de riders, riders web, usuario riders, soy rider, soy delivery, soy repartidor, ingresar a mi cuenta”
+
+
+Preguntas-frecuentes description: "Acá resolvemos todas tus dudas que puedas tener como Rider"
+
+
+Preguntas-frecuentes keywords: "tips para riders, tips, tutoriales para riders, tutoriales delivery, aprender sobre la app, tutoriales sobre la app, tutorial app, plataforma para rider, trucos y consejos para repartidores"
+
+
+Registrarse description: "Registrate acá y sé el próximo Rider de tu ciudad"
+
+
+Registrarse keywords: "ser repartidor, ser delivery, registrarse como rider, reparto, repartir en la ciudad, trabajar como delivery, registrarse como repartidor"
+
+
+Requisitos description: "¿Qué necesito para ser Rider? Encontrá toda la info que necesitas saber para convertirte en Rider" 
+
+
+Requisitos keywords: "requisitos para ser rider, requisitos, que necesito para ser repartidor, documentacion requerida, como hago para ser delivery,hay requisitos para ser repartidor, que necesito para ser rider, como ser rider, como repartir a domicilio, que documentacion necesito, con que vehículo puedo repartir"
+
+
+_______________________
+
+
+A todos los íconos de la página les agregué sus respectivas descripciones con alt=”...”
+
+
+En el “index.html”:
+
+
+src="imagenes/lamparita.png" alt="icono lamparita encendida"
+src="imagenes/birrete.png" alt="icono gorro universitario"
+src="imagenes/monitor.png" alt="icono monitor de computadora"
+src="imagenes/libro.png" alt="icono libro de cuentas"
+src="imagenes/altavoz.png" alt="icono de altavoz"
+src="imagenes/telefono.png" alt="icono telefono celular"
+
+
+
+
+En “requisitos.html”:
+
+
+src="imagenes/llave.png" alt="icono de llave"
+src="imagenes/sobre.png" alt="icono sobre con documentos"
+
+
+
+
+___________
+
+
+Por último, el único H1 de todo el sitio está el del index.html: “WEB RIDERS”
